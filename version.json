@@ -1,26 +1,8 @@
 {
-    "appName":  "ETHITH Messenger",
-    "ethithVersion":  "1.0.0",
-    "versionName":  "1.0.0 (TG 13.2.2)",
-    "versionCode":  73039,
-    "minSupportedVersionCode":  73030,
+    "versionCode":  73139,
+    "versionName":  "2.3.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.3.0/ETHITH-Messenger.apk",
+    "sha256":  "ed1779466e13121f559b0b750d417079d7ebc38f86b519e8aacbf0335d4ceac5",
     "forceUpdate":  false,
-    "releaseDate":  "2026-11-22",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/latest/download/ETHITH-Messenger.apk",
-    "sha256":  "",
-    "apkSizeBytes":  0,
-    "changelogUz":  [
-                        "ETHITH Messenger 1.0.0 — 1-Faza relizi",
-                        "Mustaqil ETHITH brendingi va yangi vektor logotip",
-                        "Keshdan himoyalangan shaxsiy ethith.db lokal bazasi",
-                        "GitHub orqali avtomatik In-App Update tizimi",
-                        "ETHITH Sozlamalari bo\u0027limi"
-                    ],
-    "changelogEn":  [
-                        "ETHITH Messenger 1.0.0 — Phase 1 release",
-                        "Independent ETHITH branding and modern vector icon",
-                        "Cache-protected local ethith.db database",
-                        "GitHub-powered In-App Update system",
-                        "Dedicated ETHITH Settings screen"
-                    ]
+    "changelog":  "ETHITH Messenger v2.3.0: Tezkor jonli streaming ETHITH AI Starter 1 (0.5s javob), rasmiy Telegram muhr galochkasi, va to\u0027liq zumrad-yashil ETHITH YouTube!"
 }

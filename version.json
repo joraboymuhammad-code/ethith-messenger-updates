@@ -1,8 +1,8 @@
 {
-    "versionCode":  73159,
-    "versionName":  "2.5.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.5.0/ETHITH-Messenger.apk",
-    "sha256":  "cedfda82132fffa5d57733a09856a73cfda43ff14d8d95e3ae0aa7aa75794121",
+    "versionCode":  73169,
+    "versionName":  "2.6.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.6.0/ETHITH-Messenger.apk",
+    "sha256":  "a104b6fc6a788effe45b8567ec76aecaef788e88625cc30d02067830067cccff",
     "forceUpdate":  false,
-    "changelog":  "ETHITH Messenger v2.5.0: YouTube TrustedHTML xatosi to\u0027liq tuzatildi — endi YouTube 100% zumrad-yashil hamda Video va Shorts uchun yuqori bildirishnomada haqiqiy musiqa pleyeri (muqova rasmi, vaqt seekbar, Oldingi/Pauza/Keyingi/Takrorlash) ishlaydi!"
+    "changelog":  "ETHITH Messenger v2.6.0: YouTube o\u0027z-o\u0027zidan pauza bo\u0027lishi 100% tuzatildi, bildirishnoma pleyeri tugmalari (Oldingi/Pauza/Keyingi/Takrorlash/Seekbar) va X yopish tugmasi tezkor ishlaydi!"
 }

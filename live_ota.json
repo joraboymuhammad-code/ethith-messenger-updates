@@ -1,0 +1,11 @@
+{
+    "ota_version":  3,
+    "youtube_extra_css":  "ytm-logo svg path, svg path[fill=\u0027#FF0033\u0027], svg path[fill=\u0027#F03\u0027], svg path[fill=\u0027#FF0000\u0027] { fill: #10B981 !important; } .ytp-play-progress, .progress-bar-played, .ytp-scrubber-button, #progress { background: #10B981 !important; }",
+    "youtube_extra_js":  "try{document.querySelectorAll(\u0027svg path,svg rect\u0027).forEach(function(e){var f=(e.getAttribute(\u0027fill\u0027)||getComputedStyle(e).fill||\u0027\u0027).toLowerCase();if(f.indexOf(\u0027ff00\u0027)!==-1||f.indexOf(\u0027#f03\u0027)!==-1||f.indexOf(\u0027255, 0\u0027)!==-1){e.setAttribute(\u0027fill\u0027,\u0027#10B981\u0027);e.style.setProperty(\u0027fill\u0027,\u0027#10B981\u0027,\u0027important\u0027);}});}catch(ex){}",
+    "ai_extra_prompt":  "Har doim to\u0027liq, batafsil va aniq javob ber.",
+    "ai_extra_keys":  [
+
+                      ],
+    "cloud_vault_url":  "",
+    "announcement":  ""
+}

@@ -1,8 +1,8 @@
 {
-    "versionCode":  73139,
-    "versionName":  "2.3.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.3.0/ETHITH-Messenger.apk",
-    "sha256":  "ed1779466e13121f559b0b750d417079d7ebc38f86b519e8aacbf0335d4ceac5",
+    "versionCode":  73149,
+    "versionName":  "2.4.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.4.0/ETHITH-Messenger.apk",
+    "sha256":  "92f7a94ad67fd2e04df33d84bb1c35aa069630103aa05e3ecf5759ae4b1c8a34",
     "forceUpdate":  false,
-    "changelog":  "ETHITH Messenger v2.3.0: Tezkor jonli streaming ETHITH AI Starter 1 (0.5s javob), rasmiy Telegram muhr galochkasi, va to\u0027liq zumrad-yashil ETHITH YouTube!"
+    "changelog":  "ETHITH Messenger v2.4.0: YouTube Video va Shorts uchun to\u0027liq musiqa pleyeri bildirishnomasi (muqova rasmi, vaqtni surish seekbar, Oldingi/Pauza/Keyingi/Takrorlash 🔁), Google Play talablariga 100% mos!"
 }

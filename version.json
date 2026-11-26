@@ -1,8 +1,10 @@
 {
-    "versionCode":  73199,
-    "versionName":  "2.9.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.9.0/ETHITH-Messenger.apk",
-    "sha256":  "54ed32afe4ea378cbbf72695211fe49a4c1757bf34056d5fb8a1f6814525cc16",
-    "forceUpdate":  false,
-    "changelog":  "ETHITH Messenger v2.9.0: SQLite darajasida 100% buzilmas Anti-Delete (narigi tomon hatto butun chatni o\u0027chirsa ham sizda saqlanib qoladi!), barcha Premium animatsiyali emojilar qulflarsiz ochildi va GitHub Cloud orqali jonli animatsiyasi bilan cheksiz yuboriladi!"
+    "versionCode":  73209,
+    "versionName":  "2.10.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.10.0/ETHITH-Messenger.apk",
+    "downloadUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.10.0/ETHITH-Messenger.apk",
+    "sha256":  "ddbad6dadfababf51921a1011d76abfe1d3bd61d22d316b0af8e1ca7b7982dca",
+    "sizeBytes":  52999962,
+    "mandatory":  false,
+    "changelog":  "YouTube bildirishnoma pleyeri istalgan bo\u0027lim va ilovada (Chatlar, Sozlamalar, fon rejimi, ekran o\u0027chganda) 100% barqaror ishlaydi — 1 soniyada avtomatik pauza bo\u0027lishi tuzatildi va vaqt surish/boshqarish mukammal qilindi."
 }

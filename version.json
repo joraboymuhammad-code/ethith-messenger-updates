@@ -1,8 +1,8 @@
 {
-    "versionCode":  73189,
-    "versionName":  "2.8.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.8.0/ETHITH-Messenger.apk",
-    "sha256":  "2ca3d6fe8c4b4c44cfae69a504188292b8a3bd709b2fec1805009c2c042157bb",
+    "versionCode":  73199,
+    "versionName":  "2.9.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.9.0/ETHITH-Messenger.apk",
+    "sha256":  "54ed32afe4ea378cbbf72695211fe49a4c1757bf34056d5fb8a1f6814525cc16",
     "forceUpdate":  false,
-    "changelog":  "ETHITH Messenger v2.8.0: Sozlamalar profilida galochka, 777000 rasmiy akkaunt ETHITH Messenger + ETHITH iconi bilan yangilandi, o\u0027chirilgan xabar/rasm/video/fayllar butunlay saqlanadi, cheksiz Premium stiker va reaksiyalar GitHub Cloud orqali ishlaydi, tezkor bildirishnomalar tuzatildi va qulflangan/yashirilgan chatlar to\u0027liq jim qilindi!"
+    "changelog":  "ETHITH Messenger v2.9.0: SQLite darajasida 100% buzilmas Anti-Delete (narigi tomon hatto butun chatni o\u0027chirsa ham sizda saqlanib qoladi!), barcha Premium animatsiyali emojilar qulflarsiz ochildi va GitHub Cloud orqali jonli animatsiyasi bilan cheksiz yuboriladi!"
 }

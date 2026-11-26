@@ -1,8 +1,8 @@
 {
-    "versionCode":  73169,
-    "versionName":  "2.6.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.6.0/ETHITH-Messenger.apk",
-    "sha256":  "a104b6fc6a788effe45b8567ec76aecaef788e88625cc30d02067830067cccff",
+    "versionCode":  73179,
+    "versionName":  "2.7.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.7.0/ETHITH-Messenger.apk",
+    "sha256":  "1601225b983afaeb5bfbd6dc7a5bcd140c88da8b17089959a58483fd736e67d9",
     "forceUpdate":  false,
-    "changelog":  "ETHITH Messenger v2.6.0: YouTube o\u0027z-o\u0027zidan pauza bo\u0027lishi 100% tuzatildi, bildirishnoma pleyeri tugmalari (Oldingi/Pauza/Keyingi/Takrorlash/Seekbar) va X yopish tugmasi tezkor ishlaydi!"
+    "changelog":  "ETHITH Messenger v2.7.0: Barcha Telegram iconlari va kirish ekrani 100% bepul ETHITH iconlariga o\u0027zgartirildi, cheksiz barcha tilli 100% aniq ovozdan matnga o\u0027girish qo\u0027shildi, GitHub Cloud orqali yashil galochka, profil foni va barcha foydalanuvchi ma\u0027lumotlarini 100% tiklash yoqildi!"
 }

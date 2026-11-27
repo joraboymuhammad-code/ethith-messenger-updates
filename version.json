@@ -1,10 +1,10 @@
 {
-    "versionCode":  73209,
-    "versionName":  "2.10.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.10.0/ETHITH-Messenger.apk",
-    "downloadUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.10.0/ETHITH-Messenger.apk",
-    "sha256":  "ddbad6dadfababf51921a1011d76abfe1d3bd61d22d316b0af8e1ca7b7982dca",
+    "versionCode":  73219,
+    "versionName":  "2.11.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.11.0/ETHITH-Messenger.apk",
+    "downloadUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.11.0/ETHITH-Messenger.apk",
+    "sha256":  "ba4c8ae15e4a16da4bbee1453f3c74054905f64b98747876a4f18680beae33dd",
     "sizeBytes":  52999962,
     "mandatory":  false,
-    "changelog":  "YouTube bildirishnoma pleyeri istalgan bo\u0027lim va ilovada (Chatlar, Sozlamalar, fon rejimi, ekran o\u0027chganda) 100% barqaror ishlaydi — 1 soniyada avtomatik pauza bo\u0027lishi tuzatildi va vaqt surish/boshqarish mukammal qilindi."
+    "changelog":  "YouTube \u0027Video mavjud emas\u0027 va yopilib qolish xatolari tuzatildi; ETHITH foydalanuvchilari o\u0027rtasida Premium stikerlar GitHub Cloud orqali to\u0027liq jonli Premium animatsiya effekti bilan xatosiz yuboriladi va ko\u0027rinadi."
 }

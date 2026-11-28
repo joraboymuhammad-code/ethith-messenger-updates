@@ -1,10 +1,10 @@
 {
-    "versionCode":  73229,
-    "versionName":  "2.12.0",
-    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.12.0/ETHITH-Messenger.apk",
-    "downloadUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.12.0/ETHITH-Messenger.apk",
-    "sha256":  "b8e26e0733dfa8165a83717d07f39cc99d93d747322c6d13209762480efab978",
-    "sizeBytes":  52999962,
+    "versionCode":  73239,
+    "versionName":  "2.13.0",
+    "apkUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.13.0/ETHITH-Messenger.apk",
+    "downloadUrl":  "https://github.com/joraboymuhammad-code/ethith-messenger-updates/releases/download/v2.13.0/ETHITH-Messenger.apk",
+    "sha256":  "5e0c7a59cafa56876505bd430df474090ccff75b082976ff764fa383e82049da",
+    "sizeBytes":  53004058,
     "mandatory":  false,
-    "changelog":  "Premium stikerlar qabul qiluvchida ham to\u0027liq animatsiya bilan ko\u0027rinadi; yangilanish kelganda AI ustida yuklash tugmasi va tepada \u0027Yangi yangilanish\u0027 paneli qo\u0027shildi."
+    "changelog":  "Yangilanish ko\u0027rsatkichi to\u0027g\u0027irlandi: faqat yangi versiya chiqqanda paydo bo\u0027ladi va yangilangach avtomatik yo\u0027qoladi."
 }
